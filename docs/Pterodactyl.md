@@ -1,3 +1,5 @@
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/c2853595-3d97-4874-b4d8-c848b80b1adf" />
+
 # Pterodactyl面板說明
 
 ## 一. 創建帳號
