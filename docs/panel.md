@@ -1,3 +1,4 @@
+![alt text](image-3.png)
 ## 控制面板
 我們有兩個控制面板，分別是 : MCSM . Pterodactyl，我們推薦Pterodactyl
 
