@@ -28,7 +28,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'warnerbros', link: 'https://wayne227304.dpdns.org' },
-      { icon: 'discord', link: 'https://discord.gg/drMFgPb6QJ' }
+      { icon: 'discord', link: 'https://panel.wayhost.cc.cd/go/discord' }
     ]
   }
 })
