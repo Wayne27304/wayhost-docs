@@ -8,7 +8,7 @@
 首先你要到Discord頻道申請伺服器
 1. 加入託管[Discord伺服器](https://discord.gg/drMFgPb6QJ)
 2. 開單申請 [#［托管申請］](https://discord.com/channels/1522956743779287141/1528440297628106843)
-![An image](./ticket.png)
+<img width="850" height="709" alt="image" src="https://github.com/user-attachments/assets/f082a987-8bdc-4a6a-86e3-aa77f16ec9ea" />
 3. 開啟客服單之後說說明你需要的環境語言.用途.專案邀請連結(Discord機器人).你的Email等資料 . 以及你要的節點位置
 
 ::: tip
