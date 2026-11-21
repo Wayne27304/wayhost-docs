@@ -21,7 +21,6 @@ export default defineConfig({
         text: '面板教學',
         items: [
           { text: '控制面板', link: '/panel' },
-          { text: 'MCSM Panel', link: '/mcsm' },
           { text: 'Pterodactyl Panel', link: '/Pterodactyl' }
         ]
       }
